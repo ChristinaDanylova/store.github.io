@@ -1,0 +1,472 @@
+*{
+	left:0;
+	top:0;
+}
+.header{
+	position:absolute;
+	height:10vh;
+	width:100%;
+	background-color:white;
+	
+}
+.logo{
+	position:relative;
+	height:10vh;
+	width:13vw;
+	left:2vw;
+	background:url(logo.jpg);
+	background-size:cover;
+	float:left;
+}
+
+	
+.header button{
+	position:relative;
+	left:48vw;
+	top:3vh;
+	width:6vh;
+	height:5vh;
+	background:url(shop.png);
+	background-size:cover;
+}
+.header a{
+	position:relative;
+	left:45vw;
+	top:3vh;
+	text-decoration:none;
+	margin-right:6vh;
+	color:black;
+	font-size:22px;
+	
+}
+.main_img{
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:10vh;
+	background:url(01.png);
+	background-size:cover;
+	
+	
+}
+.main_img button{
+	position:relative;
+	left:14vw;
+	top:63vh;
+	width:33vh;
+	height:10vh;
+	background-color:mistyrose;
+	font-size:23px;
+	font-weight: 500;
+	
+}
+.main_txt{
+	position:relative;
+	left:14vw;
+	width:32vw;
+	color:black;
+	font-size:38px;
+	text-align:left;
+	
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+
+
+
+
+
+.adv{
+	position:absolute;
+	width:100%;
+	height:100vh;
+	top:110vh;
+	
+}
+.adv h1 {
+	position:relative;
+	left:0;
+	top:20vh;
+	color:black;
+	font-size:35px;
+    text-align:center;
+	margin-right:1vh;
+    font-weight: 400;
+	
+}
+.adv .circle1, .circle2, .circle3 {
+	 position:relative;
+	 width: 25vw; 
+     height: 50vh;
+	 top:30vh ;
+	 margin-left:6% ;
+     border-radius: 50%;
+	 -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     -khtml-border-radius: 50%;
+     background-color:mistyrose;
+	 float:left;
+	
+}
+ .circle1 h2{
+	position:relative;
+	left:0;
+	top:22vh;
+	color:black;
+	font-size:30px;
+    text-align:center;
+	margin-right:1vh;
+    font-weight: 400;
+}
+ .adv img{
+	position:relative;
+	width:5vw;
+	height:10vh;
+	left:10vw;
+	top:0;
+	background-size:cover;
+}
+
+.circle2 h2 {
+	position:relative;
+	left:0;
+	top:22vh;
+	color:black;
+	font-size:30px;
+    text-align:center;
+	margin-right:1vh;
+    font-weight: 400;
+}
+.circle3 h2 {
+	position:relative;
+	left:0;
+	top:22vh;
+	color:black;
+	font-size:30px;
+    text-align:center;
+	margin-right:1vh;
+    font-weight: 400;
+}
+
+
+
+
+
+
+.shp{
+	position:absolute;
+	width:100%;
+	height:100vh;
+	top:220vh;
+}
+
+
+.shp h1 {
+	position:relative;
+	left:0;
+	top:0;
+	color:black;
+	font-size:35px;
+    text-align:center;
+	margin-right:1vh;
+    font-weight: 400;
+	
+}
+
+.shp .top_img img{
+	 position:relative;
+	 width: 25vw; 
+     height: 55vh;
+	 left:8vw;
+	 top:10vh ;
+	 margin-left:2% ;
+     float:left;
+	
+}
+.shp .txt1 .top1 h2{
+	position:relative;
+	left:17vw;
+	top:15vh;
+	color:black;
+	font-size:35px;
+    text-align:center;
+	margin-right:33vh;
+    font-weight: 400;
+	font-size: x-large;
+	line-height: 1.5;
+	font-weight: 450;
+	float:left;
+}
+.shp .txt1 .top2 button{
+	position:relative;
+	left:14vw;
+	top:15vh;
+	width:33vh;
+	height:7vh;
+	background-color:mistyrose;
+	font-size:23px;
+	font-weight: 500;
+	margin-right:23vh;
+	float:left;
+}
+
+
+
+
+.shp2{
+	position:absolute;
+	width:100%;
+	height:100vh;
+	top:320vh;
+}
+
+
+.shp2 .top_img2 img{
+	 position:relative;
+	 width: 25vw; 
+     height: 55vh;
+	 left:8vw;
+	 top:10vh ;
+	 margin-left:2% ;
+     float:left;
+	
+}
+.shp2 .txt2 .top3 h2{
+	position:relative;
+	left:19vw;
+	top:15vh;
+	color:black;
+	text-align:center;
+	margin-right:38vh;
+    font-weight: 400;
+	font-size: x-large;
+	line-height: 1.5;
+	font-weight: 450;
+	float:left;
+}
+.shp2 .txt2 .top4 button{
+	position:relative;
+	left:14vw;
+	top:15vh;
+	width:33vh;
+	height:7vh;
+	background-color:mistyrose;
+	font-size:23px;
+	font-weight: 500;
+	margin-right:23vh;
+	float:left;
+}
+
+
+
+
+
+
+.sbc {
+	position:absolute;
+	width:100%;
+	height:100vh;
+	top:420vh;
+	background-color:#FFEDF7;
+}
+  
+.sbc h1{
+	position:relative;
+	left:0;
+	top:9vw;
+	color:black;
+	font-size:35px;
+    text-align:center;
+	margin-right:1vh;
+    font-weight: 400;
+}
+
+
+
+#A {
+	position:relative;
+    top:28vh;
+	width:40vw;
+	height:9vh;
+	border-radius: 15px;
+	
+}
+
+#B {
+	position:relative;
+    top:30vh;
+	width:40vw;
+	height:9vh;
+	border-radius: 15px;
+}
+
+#x {
+	position:relative;
+    top:35vh;
+	width:30vh;
+	height:8vh;
+	background-color:#FFD6EE;
+	font-size:23px;
+	font-weight: 500;
+	border-radius: 20px;
+}
+
+
+
+
+
+.end {
+	position:absolute;
+	width:100%;
+	height:100vh;
+	top:530vh;
+	
+}
+
+.end .name {
+	position:relative;
+	width:30vw;
+	top:10vh;
+}
+
+
+
+
+.end .cnt .name h2{
+	position:relative;
+	left:15vw;
+	top:5vh;
+	color:black;
+    text-align:left;
+	margin-right:1vh;
+    font-weight: 450;
+	font-size:27px;
+}
+
+.end .cnt .name h1{
+	position:relative;
+	left:15vw;
+	top:5vh;
+	color:black;
+    text-align:left;
+	margin-right:1vh;
+    font-weight: 500;
+}
+.end .cnt .brd{
+	position:relative;
+	border: 1px double black;
+	left:50vw;
+	top:5vh;
+	width:25vw;
+	height:11vh;
+	border-radius: 20px;
+	
+}
+.end .cnt .brd h2{
+	position:relative;
+	top:0;
+	font-weight: 450;
+    font-size:23px;
+	
+}
+.end .cnt .brd h1{
+	font-weight: 550;
+	text-decoration:none;
+	color:black;
+	font-size:30px;
+	
+}
+.end .cnt .brd1 {
+	position:relative;
+	border: 1px double black;
+	left:50vw;
+	top:10vh;
+	width:17vw;
+	height:10vh;
+	border-radius: 20px;
+}
+.end .cnt .brd1 h2{
+	font-weight: 450;
+    font-size:23px;
+}
+.end .cnt .brd1 h1{
+	font-weight: 550;
+	text-decoration:none;
+	color:black;
+	font-size:30px;
+}
+
+
+
+.end .ft {
+	position:relative;
+	width:100%;
+	height:50vh;
+	background-color:#575757;
+	top:50vh;
+	float:left;
+}
+
+.ft1 {
+	position:relative;
+	left:12vw;
+	top:15vh;
+	width:17vw;
+	height:10vh;
+	float:left;
+	
+}
+.end .ft .ft1 h1{
+	font-weight: 550;
+	color:white;
+	font-size:25px;
+	line-height: 1.8;
+	font-weight: 400;
+}
+.ft2 {
+	position:relative;
+	left:23vw;
+    top:15vh;
+	width:17vw;
+	height:10vh;
+	float:left;
+}
+.end .ft .ft2 h1{
+	font-weight: 550;
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+	line-height: 1.8;
+	font-weight: 400;
+	
+	
+}
+.end .ft .ft2 a{
+	text-decoration:none;
+	color:white;
+}
+.ft3 {
+	position:relative;
+	left:38vw;
+    top:15vh;
+	width:17vw;
+	height:10vh;
+	float:left;
+}
+.end .ft .ft3 h1{
+	font-weight: 550;
+	color:white;
+	font-size:25px;
+	line-height: 1.8;
+	font-weight: 400;
+	
+}
+.ft3 img{
+	position:relative;
+	 width: 2vw; 
+     height: 4vh;
+     margin-left:3% ;
+     float:left;
+	
+}
